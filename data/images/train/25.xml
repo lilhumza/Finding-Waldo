@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>25.jpg</filename>
+	<path>C:\Users\lilhu\Desktop\images\25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WALDO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>44</ymin>
+			<xmax>475</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+</annotation>
